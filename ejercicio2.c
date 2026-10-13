@@ -2,7 +2,7 @@
   ejercicio 2 clase
   Calcula cambio a recibir*/
 
-#include <stdio>
+#include <stdio.h>
 
 int main()
 {
